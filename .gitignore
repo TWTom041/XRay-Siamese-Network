@@ -1,0 +1,11 @@
+images_*/
+ARXIV_V5_CHESTXRAY.pdf
+BBox_List_2017.csv
+Data_Entry_2017.csv
+FAQ_CHESTXRAY.pdf
+LOG_CHESTXRAY.pdf
+README_CHESTXRAY.pdf
+*.p
+test_list.txt
+train_val_list.txt
+
