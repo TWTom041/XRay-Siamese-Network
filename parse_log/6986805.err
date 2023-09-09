@@ -1,0 +1,480 @@
+[DEBUG/MainProcess] created semlock with handle 47499818151936
+[DEBUG/MainProcess] created semlock with handle 47499818156032
+[DEBUG/MainProcess] created semlock with handle 47499818160128
+[DEBUG/MainProcess] created semlock with handle 47499818164224
+[DEBUG/MainProcess] created semlock with handle 47499818168320
+[DEBUG/MainProcess] created semlock with handle 47499820134400
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-1] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-2] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-3] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-4] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-5] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-6] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-7] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-8] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-9] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-10] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-11] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-12] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-13] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-14] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-15] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-16] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-17] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-18] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-19] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-20] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-21] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-22] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-23] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-24] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-25] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-26] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-27] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-28] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-29] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-30] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-31] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-32] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-33] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-34] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-35] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-36] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-37] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-38] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-39] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-40] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-41] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-42] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-43] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-44] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-45] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-46] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-47] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-48] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-49] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-50] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-51] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-52] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-53] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-54] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-55] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-56] child process calling self.run()
+libpng warning: iCCP: profile 'ICC Profile': 'GRAY': Gray color space not permitted on RGB PNG
+[DEBUG/MainProcess] created semlock with handle 47499820138496
+libpng warning: iCCP: profile 'ICC Profile': 'GRAY': Gray color space not permitted on RGB PNG
+[DEBUG/MainProcess] doing set_length()
+[DEBUG/MainProcess] terminating pool
+[Level 5/MainProcess] finalizer calling <bound method Pool._terminate_pool of <class 'multiprocessing.pool.Pool'>> with args (<_queue.SimpleQueue object at 0x2b34013cf680>, <multiprocessing.queues.SimpleQueue object at 0x2b34001bc8e0>, <multiprocessing.queues.SimpleQueue object at 0x2b34013c5d00>, [<ForkProcess name='ForkPoolWorker-1' pid=86867 parent=86810 started daemon>, <ForkProcess name='ForkPoolWorker-2' pid=86868 parent=86810 started daemon>, <ForkProcess name='ForkPoolWorker-3' pid=86869 parent=86810 started daemon>, <ForkProcess name='ForkPoolWorker-4' pid=86870 parent=86810 started daemon>, <ForkProcess name='ForkPoolWorker-5' pid=86871 parent=86810 started daemon>, <ForkProcess name='ForkPoolWorker-6' pid=86872 parent=86810 started daemon>, <ForkProcess name='ForkPoolWorker-7' pid=86873 parent=86810 started daemon>, <ForkProcess name='ForkPoolWorker-8' pid=86874 parent=86810 started daemon>, <ForkProcess name='ForkPoolWorker-9' pid=86875 parent=86810 started daemon>, <ForkProcess name='ForkPoolWorker-10' pid=86876 parent=86810 started daemon>, <ForkProcess name='ForkPoolWorker-11' pid=86877 parent=86810 started daemon>, <ForkProcess name='ForkPoolWorker-12' pid=86878 parent=86810 started daemon>, <ForkProcess name='ForkPoolWorker-13' pid=86879 parent=86810 started daemon>, <ForkProcess name='ForkPoolWorker-14' pid=86880 parent=86810 started daemon>, <ForkProcess name='ForkPoolWorker-15' pid=86881 parent=86810 started daemon>, <ForkProcess name='ForkPoolWorker-16' pid=86882 parent=86810 started daemon>, <ForkProcess name='ForkPoolWorker-17' pid=86883 parent=86810 started daemon>, <ForkProcess name='ForkPoolWorker-18' pid=86884 parent=86810 started daemon>, <ForkProcess name='ForkPoolWorker-19' pid=86885 parent=86810 started daemon>, <ForkProcess name='ForkPoolWorker-20' pid=86886 parent=86810 started daemon>, <ForkProcess name='ForkPoolWorker-21' pid=86887 parent=86810 started daemon>, <ForkProcess name='ForkPoolWorker-22' pid=86888 parent=86810 started daemon>, <ForkProcess name='ForkPoolWorker-23' pid=86889 parent=86810 started daemon>, <ForkProcess name='ForkPoolWorker-24' pid=86890 parent=86810 started daemon>, <ForkProcess name='ForkPoolWorker-25' pid=86891 parent=86810 started daemon>, <ForkProcess name='ForkPoolWorker-26' pid=86892 parent=86810 started daemon>, <ForkProcess name='ForkPoolWorker-27' pid=86893 parent=86810 started daemon>, <ForkProcess name='ForkPoolWorker-28' pid=86894 parent=86810 started daemon>, <ForkProcess name='ForkPoolWorker-29' pid=86895 parent=86810 started daemon>, <ForkProcess name='ForkPoolWorker-30' pid=86896 parent=86810 started daemon>, <ForkProcess name='ForkPoolWorker-31' pid=86897 parent=86810 started daemon>, <ForkProcess name='ForkPoolWorker-32' pid=86898 parent=86810 started daemon>, <ForkProcess name='ForkPoolWorker-33' pid=86899 parent=86810 started daemon>, <ForkProcess name='ForkPoolWorker-34' pid=86900 parent=86810 started daemon>, <ForkProcess name='ForkPoolWorker-35' pid=86901 parent=86810 started daemon>, <ForkProcess name='ForkPoolWorker-36' pid=86902 parent=86810 started daemon>, <ForkProcess name='ForkPoolWorker-37' pid=86903 parent=86810 started daemon>, <ForkProcess name='ForkPoolWorker-38' pid=86904 parent=86810 started daemon>, <ForkProcess name='ForkPoolWorker-39' pid=86905 parent=86810 started daemon>, <ForkProcess name='ForkPoolWorker-40' pid=86906 parent=86810 started daemon>, <ForkProcess name='ForkPoolWorker-41' pid=86907 parent=86810 started daemon>, <ForkProcess name='ForkPoolWorker-42' pid=86908 parent=86810 started daemon>, <ForkProcess name='ForkPoolWorker-43' pid=86909 parent=86810 started daemon>, <ForkProcess name='ForkPoolWorker-44' pid=86910 parent=86810 started daemon>, <ForkProcess name='ForkPoolWorker-45' pid=86911 parent=86810 started daemon>, <ForkProcess name='ForkPoolWorker-46' pid=86912 parent=86810 started daemon>, <ForkProcess name='ForkPoolWorker-47' pid=86913 parent=86810 started daemon>, <ForkProcess name='ForkPoolWorker-48' pid=86914 parent=86810 started daemon>, <ForkProcess name='ForkPoolWorker-49' pid=86915 parent=86810 started daemon>, <ForkProcess name='ForkPoolWorker-50' pid=86916 parent=86810 started daemon>, <ForkProcess name='ForkPoolWorker-51' pid=86917 parent=86810 started daemon>, <ForkProcess name='ForkPoolWorker-52' pid=86918 parent=86810 started daemon>, <ForkProcess name='ForkPoolWorker-53' pid=86919 parent=86810 started daemon>, <ForkProcess name='ForkPoolWorker-54' pid=86920 parent=86810 started daemon>, <ForkProcess name='ForkPoolWorker-55' pid=86921 parent=86810 started daemon>, <ForkProcess name='ForkPoolWorker-56' pid=86922 parent=86810 started daemon>], <multiprocessing.queues.SimpleQueue object at 0x2b33717d0fd0>, <Thread(Thread-1, started daemon 47501837596416)>, <Thread(Thread-2, started daemon 47501835495168)>, <Thread(Thread-3, started daemon 47501766285056)>, {}) and kwargs {}
+[DEBUG/MainProcess] finalizing pool
+[DEBUG/MainProcess] helping task handler/workers to finish
+[DEBUG/MainProcess] worker handler exiting
+[DEBUG/MainProcess] removing tasks from inqueue until task handler finished
+[DEBUG/MainProcess] task handler got sentinel
+[DEBUG/MainProcess] task handler sending sentinel to result handler
+[DEBUG/MainProcess] task handler sending sentinel to workers
+[DEBUG/ForkPoolWorker-47] worker got sentinel -- exiting
+[DEBUG/ForkPoolWorker-47] worker exiting after 1972 tasks
+[DEBUG/MainProcess] task handler exiting
+[INFO/ForkPoolWorker-47] process shutting down
+[DEBUG/ForkPoolWorker-47] running all "atexit" finalizers with priority >= 0
+[DEBUG/MainProcess] result handler got sentinel
+[DEBUG/ForkPoolWorker-47] running the remaining "atexit" finalizers
+[DEBUG/ForkPoolWorker-44] worker got sentinel -- exiting
+[DEBUG/ForkPoolWorker-45] worker got sentinel -- exiting
+[DEBUG/MainProcess] ensuring that outqueue is not full
+[INFO/ForkPoolWorker-47] process exiting with exitcode 0
+[DEBUG/ForkPoolWorker-45] worker exiting after 1976 tasks
+[DEBUG/MainProcess] result handler exiting: len(cache)=0, thread._state=RUN
+[DEBUG/ForkPoolWorker-44] worker exiting after 2014 tasks
+[INFO/ForkPoolWorker-45] process shutting down
+[DEBUG/ForkPoolWorker-45] running all "atexit" finalizers with priority >= 0
+[DEBUG/ForkPoolWorker-50] worker got sentinel -- exiting
+[DEBUG/ForkPoolWorker-54] worker got sentinel -- exiting
+[DEBUG/ForkPoolWorker-45] running the remaining "atexit" finalizers
+[INFO/ForkPoolWorker-44] process shutting down
+[INFO/ForkPoolWorker-45] process exiting with exitcode 0
+[DEBUG/ForkPoolWorker-54] worker exiting after 2027 tasks
+[DEBUG/ForkPoolWorker-50] worker exiting after 1957 tasks
+[DEBUG/ForkPoolWorker-44] running all "atexit" finalizers with priority >= 0
+[DEBUG/ForkPoolWorker-21] worker got sentinel -- exiting
+[DEBUG/ForkPoolWorker-52] worker got sentinel -- exiting
+[INFO/ForkPoolWorker-50] process shutting down
+[DEBUG/ForkPoolWorker-44] running the remaining "atexit" finalizers
+[INFO/ForkPoolWorker-54] process shutting down
+[DEBUG/ForkPoolWorker-21] worker exiting after 1999 tasks
+[DEBUG/ForkPoolWorker-50] running all "atexit" finalizers with priority >= 0
+[DEBUG/ForkPoolWorker-52] worker exiting after 1981 tasks
+[DEBUG/ForkPoolWorker-39] worker got sentinel -- exiting
+[INFO/ForkPoolWorker-44] process exiting with exitcode 0
+[INFO/ForkPoolWorker-21] process shutting down
+[DEBUG/ForkPoolWorker-50] running the remaining "atexit" finalizers
+[INFO/ForkPoolWorker-52] process shutting down
+[DEBUG/ForkPoolWorker-54] running all "atexit" finalizers with priority >= 0
+[DEBUG/ForkPoolWorker-21] running all "atexit" finalizers with priority >= 0
+[DEBUG/ForkPoolWorker-7] worker got sentinel -- exiting
+[DEBUG/ForkPoolWorker-39] worker exiting after 2023 tasks
+[DEBUG/ForkPoolWorker-52] running all "atexit" finalizers with priority >= 0
+[INFO/ForkPoolWorker-50] process exiting with exitcode 0
+[DEBUG/ForkPoolWorker-21] running the remaining "atexit" finalizers
+[DEBUG/ForkPoolWorker-31] worker got sentinel -- exiting
+[DEBUG/ForkPoolWorker-7] worker exiting after 1989 tasks
+[INFO/ForkPoolWorker-39] process shutting down
+[DEBUG/ForkPoolWorker-52] running the remaining "atexit" finalizers
+[DEBUG/ForkPoolWorker-54] running the remaining "atexit" finalizers
+[DEBUG/ForkPoolWorker-4] worker got sentinel -- exiting
+[INFO/ForkPoolWorker-21] process exiting with exitcode 0
+[DEBUG/ForkPoolWorker-31] worker exiting after 1998 tasks
+[DEBUG/ForkPoolWorker-39] running all "atexit" finalizers with priority >= 0
+[INFO/ForkPoolWorker-7] process shutting down
+[INFO/ForkPoolWorker-52] process exiting with exitcode 0
+[DEBUG/ForkPoolWorker-43] worker got sentinel -- exiting
+[DEBUG/ForkPoolWorker-4] worker exiting after 1977 tasks
+[INFO/ForkPoolWorker-31] process shutting down
+[DEBUG/ForkPoolWorker-7] running all "atexit" finalizers with priority >= 0
+[DEBUG/ForkPoolWorker-39] running the remaining "atexit" finalizers
+[INFO/ForkPoolWorker-54] process exiting with exitcode 0
+[DEBUG/ForkPoolWorker-31] running all "atexit" finalizers with priority >= 0
+[INFO/ForkPoolWorker-4] process shutting down
+[DEBUG/ForkPoolWorker-43] worker exiting after 1974 tasks
+[DEBUG/ForkPoolWorker-14] worker got sentinel -- exiting
+[DEBUG/ForkPoolWorker-7] running the remaining "atexit" finalizers
+[INFO/ForkPoolWorker-39] process exiting with exitcode 0
+[DEBUG/ForkPoolWorker-4] running all "atexit" finalizers with priority >= 0
+[DEBUG/ForkPoolWorker-31] running the remaining "atexit" finalizers
+[INFO/ForkPoolWorker-43] process shutting down
+[DEBUG/ForkPoolWorker-14] worker exiting after 2016 tasks
+[DEBUG/ForkPoolWorker-28] worker got sentinel -- exiting
+[DEBUG/ForkPoolWorker-37] worker got sentinel -- exiting
+[DEBUG/ForkPoolWorker-4] running the remaining "atexit" finalizers
+[INFO/ForkPoolWorker-7] process exiting with exitcode 0
+[DEBUG/ForkPoolWorker-43] running all "atexit" finalizers with priority >= 0
+[INFO/ForkPoolWorker-31] process exiting with exitcode 0
+[INFO/ForkPoolWorker-14] process shutting down
+[DEBUG/ForkPoolWorker-37] worker exiting after 1987 tasks
+[DEBUG/ForkPoolWorker-28] worker exiting after 2007 tasks
+[DEBUG/ForkPoolWorker-43] running the remaining "atexit" finalizers
+[INFO/ForkPoolWorker-4] process exiting with exitcode 0
+[DEBUG/ForkPoolWorker-14] running all "atexit" finalizers with priority >= 0
+[INFO/ForkPoolWorker-37] process shutting down
+[DEBUG/ForkPoolWorker-8] worker got sentinel -- exiting
+[INFO/ForkPoolWorker-28] process shutting down
+[DEBUG/ForkPoolWorker-37] running all "atexit" finalizers with priority >= 0
+[DEBUG/ForkPoolWorker-14] running the remaining "atexit" finalizers
+[INFO/ForkPoolWorker-43] process exiting with exitcode 0
+[DEBUG/ForkPoolWorker-28] running all "atexit" finalizers with priority >= 0
+[DEBUG/ForkPoolWorker-8] worker exiting after 2006 tasks
+[DEBUG/ForkPoolWorker-34] worker got sentinel -- exiting
+[DEBUG/ForkPoolWorker-28] running the remaining "atexit" finalizers
+[DEBUG/ForkPoolWorker-37] running the remaining "atexit" finalizers
+[INFO/ForkPoolWorker-8] process shutting down
+[DEBUG/ForkPoolWorker-30] worker got sentinel -- exiting
+[DEBUG/ForkPoolWorker-26] worker got sentinel -- exiting
+[DEBUG/ForkPoolWorker-34] worker exiting after 1999 tasks
+[DEBUG/ForkPoolWorker-8] running all "atexit" finalizers with priority >= 0
+[INFO/ForkPoolWorker-28] process exiting with exitcode 0
+[INFO/ForkPoolWorker-37] process exiting with exitcode 0
+[DEBUG/ForkPoolWorker-30] worker exiting after 2011 tasks
+[DEBUG/ForkPoolWorker-26] worker exiting after 2027 tasks
+[DEBUG/ForkPoolWorker-22] worker got sentinel -- exiting
+[INFO/ForkPoolWorker-34] process shutting down
+[DEBUG/ForkPoolWorker-8] running the remaining "atexit" finalizers
+[INFO/ForkPoolWorker-30] process shutting down
+[INFO/ForkPoolWorker-26] process shutting down
+[INFO/ForkPoolWorker-14] process exiting with exitcode 0
+[DEBUG/ForkPoolWorker-34] running all "atexit" finalizers with priority >= 0
+[DEBUG/ForkPoolWorker-22] worker exiting after 2046 tasks
+[DEBUG/ForkPoolWorker-30] running all "atexit" finalizers with priority >= 0
+[DEBUG/ForkPoolWorker-26] running all "atexit" finalizers with priority >= 0
+[DEBUG/ForkPoolWorker-40] worker got sentinel -- exiting
+[INFO/ForkPoolWorker-8] process exiting with exitcode 0
+[INFO/ForkPoolWorker-22] process shutting down
+[DEBUG/ForkPoolWorker-34] running the remaining "atexit" finalizers
+[DEBUG/ForkPoolWorker-30] running the remaining "atexit" finalizers
+[DEBUG/ForkPoolWorker-26] running the remaining "atexit" finalizers
+[DEBUG/ForkPoolWorker-22] running all "atexit" finalizers with priority >= 0
+[DEBUG/ForkPoolWorker-41] worker got sentinel -- exiting
+[DEBUG/ForkPoolWorker-40] worker exiting after 2015 tasks
+[DEBUG/ForkPoolWorker-35] worker got sentinel -- exiting
+[DEBUG/ForkPoolWorker-20] worker got sentinel -- exiting
+[INFO/ForkPoolWorker-34] process exiting with exitcode 0
+[DEBUG/ForkPoolWorker-22] running the remaining "atexit" finalizers
+[INFO/ForkPoolWorker-30] process exiting with exitcode 0
+[INFO/ForkPoolWorker-26] process exiting with exitcode 0
+[DEBUG/ForkPoolWorker-41] worker exiting after 2022 tasks
+[INFO/ForkPoolWorker-40] process shutting down
+[DEBUG/ForkPoolWorker-20] worker exiting after 2031 tasks
+[DEBUG/ForkPoolWorker-35] worker exiting after 1998 tasks
+[DEBUG/ForkPoolWorker-9] worker got sentinel -- exiting
+[INFO/ForkPoolWorker-22] process exiting with exitcode 0
+[DEBUG/ForkPoolWorker-40] running all "atexit" finalizers with priority >= 0
+[INFO/ForkPoolWorker-41] process shutting down
+[INFO/ForkPoolWorker-20] process shutting down
+[INFO/ForkPoolWorker-35] process shutting down
+[DEBUG/ForkPoolWorker-9] worker exiting after 2007 tasks
+[DEBUG/ForkPoolWorker-20] running all "atexit" finalizers with priority >= 0
+[DEBUG/ForkPoolWorker-41] running all "atexit" finalizers with priority >= 0
+[DEBUG/ForkPoolWorker-40] running the remaining "atexit" finalizers
+[DEBUG/ForkPoolWorker-35] running all "atexit" finalizers with priority >= 0
+[DEBUG/ForkPoolWorker-32] worker got sentinel -- exiting
+[INFO/ForkPoolWorker-9] process shutting down
+[DEBUG/ForkPoolWorker-20] running the remaining "atexit" finalizers
+[DEBUG/ForkPoolWorker-41] running the remaining "atexit" finalizers
+[DEBUG/ForkPoolWorker-35] running the remaining "atexit" finalizers
+[INFO/ForkPoolWorker-40] process exiting with exitcode 0
+[DEBUG/ForkPoolWorker-9] running all "atexit" finalizers with priority >= 0
+[DEBUG/ForkPoolWorker-32] worker exiting after 2051 tasks
+[INFO/ForkPoolWorker-20] process exiting with exitcode 0
+[DEBUG/ForkPoolWorker-5] worker got sentinel -- exiting
+[INFO/ForkPoolWorker-41] process exiting with exitcode 0
+[DEBUG/ForkPoolWorker-9] running the remaining "atexit" finalizers
+[INFO/ForkPoolWorker-35] process exiting with exitcode 0
+[INFO/ForkPoolWorker-32] process shutting down
+[DEBUG/ForkPoolWorker-33] worker got sentinel -- exiting
+[DEBUG/ForkPoolWorker-56] worker got sentinel -- exiting
+[DEBUG/ForkPoolWorker-32] running all "atexit" finalizers with priority >= 0
+[DEBUG/ForkPoolWorker-5] worker exiting after 1995 tasks
+[DEBUG/ForkPoolWorker-24] worker got sentinel -- exiting
+[DEBUG/ForkPoolWorker-23] worker got sentinel -- exiting
+[DEBUG/ForkPoolWorker-32] running the remaining "atexit" finalizers
+[DEBUG/ForkPoolWorker-56] worker exiting after 1997 tasks
+[INFO/ForkPoolWorker-5] process shutting down
+[DEBUG/ForkPoolWorker-24] worker exiting after 1974 tasks
+[DEBUG/ForkPoolWorker-33] worker exiting after 2025 tasks
+[DEBUG/ForkPoolWorker-23] worker exiting after 1963 tasks
+[INFO/ForkPoolWorker-56] process shutting down
+[DEBUG/ForkPoolWorker-5] running all "atexit" finalizers with priority >= 0
+[DEBUG/ForkPoolWorker-55] worker got sentinel -- exiting
+[INFO/ForkPoolWorker-32] process exiting with exitcode 0
+[INFO/ForkPoolWorker-24] process shutting down
+[DEBUG/ForkPoolWorker-56] running all "atexit" finalizers with priority >= 0
+[INFO/ForkPoolWorker-23] process shutting down
+[DEBUG/ForkPoolWorker-5] running the remaining "atexit" finalizers
+[DEBUG/ForkPoolWorker-24] running all "atexit" finalizers with priority >= 0
+[INFO/ForkPoolWorker-33] process shutting down
+[DEBUG/ForkPoolWorker-55] worker exiting after 2018 tasks
+[DEBUG/ForkPoolWorker-13] worker got sentinel -- exiting
+[DEBUG/ForkPoolWorker-23] running all "atexit" finalizers with priority >= 0
+[DEBUG/ForkPoolWorker-56] running the remaining "atexit" finalizers
+[DEBUG/ForkPoolWorker-24] running the remaining "atexit" finalizers
+[INFO/ForkPoolWorker-5] process exiting with exitcode 0
+[INFO/ForkPoolWorker-55] process shutting down
+[DEBUG/ForkPoolWorker-38] worker got sentinel -- exiting
+[DEBUG/ForkPoolWorker-33] running all "atexit" finalizers with priority >= 0
+[DEBUG/ForkPoolWorker-23] running the remaining "atexit" finalizers
+[DEBUG/ForkPoolWorker-13] worker exiting after 1991 tasks
+[DEBUG/ForkPoolWorker-55] running all "atexit" finalizers with priority >= 0
+[INFO/ForkPoolWorker-56] process exiting with exitcode 0
+[INFO/ForkPoolWorker-24] process exiting with exitcode 0
+[DEBUG/ForkPoolWorker-38] worker exiting after 1981 tasks
+[DEBUG/ForkPoolWorker-19] worker got sentinel -- exiting
+[DEBUG/ForkPoolWorker-55] running the remaining "atexit" finalizers
+[INFO/ForkPoolWorker-23] process exiting with exitcode 0
+[INFO/ForkPoolWorker-13] process shutting down
+[DEBUG/ForkPoolWorker-3] worker got sentinel -- exiting
+[INFO/ForkPoolWorker-38] process shutting down
+[DEBUG/ForkPoolWorker-33] running the remaining "atexit" finalizers
+[DEBUG/ForkPoolWorker-19] worker exiting after 1983 tasks
+[DEBUG/ForkPoolWorker-13] running all "atexit" finalizers with priority >= 0
+[INFO/ForkPoolWorker-55] process exiting with exitcode 0
+[DEBUG/ForkPoolWorker-38] running all "atexit" finalizers with priority >= 0
+[DEBUG/ForkPoolWorker-3] worker exiting after 2003 tasks
+[DEBUG/ForkPoolWorker-12] worker got sentinel -- exiting
+[INFO/ForkPoolWorker-19] process shutting down
+[DEBUG/ForkPoolWorker-13] running the remaining "atexit" finalizers
+[DEBUG/ForkPoolWorker-38] running the remaining "atexit" finalizers
+[INFO/ForkPoolWorker-3] process shutting down
+[DEBUG/ForkPoolWorker-19] running all "atexit" finalizers with priority >= 0
+[DEBUG/ForkPoolWorker-12] worker exiting after 1986 tasks
+[DEBUG/ForkPoolWorker-2] worker got sentinel -- exiting
+[DEBUG/ForkPoolWorker-3] running all "atexit" finalizers with priority >= 0
+[INFO/ForkPoolWorker-33] process exiting with exitcode 0
+[DEBUG/ForkPoolWorker-19] running the remaining "atexit" finalizers
+[INFO/ForkPoolWorker-38] process exiting with exitcode 0
+[INFO/ForkPoolWorker-13] process exiting with exitcode 0
+[INFO/ForkPoolWorker-12] process shutting down
+[DEBUG/ForkPoolWorker-3] running the remaining "atexit" finalizers
+[DEBUG/ForkPoolWorker-2] worker exiting after 1956 tasks
+[INFO/ForkPoolWorker-9] process exiting with exitcode 0
+[INFO/ForkPoolWorker-19] process exiting with exitcode 0
+[DEBUG/ForkPoolWorker-12] running all "atexit" finalizers with priority >= 0
+[DEBUG/ForkPoolWorker-15] worker got sentinel -- exiting
+[INFO/ForkPoolWorker-2] process shutting down
+[INFO/ForkPoolWorker-3] process exiting with exitcode 0
+[DEBUG/ForkPoolWorker-12] running the remaining "atexit" finalizers
+[DEBUG/ForkPoolWorker-25] worker got sentinel -- exiting
+[DEBUG/ForkPoolWorker-15] worker exiting after 1980 tasks
+[DEBUG/ForkPoolWorker-2] running all "atexit" finalizers with priority >= 0
+[DEBUG/ForkPoolWorker-6] worker got sentinel -- exiting
+[INFO/ForkPoolWorker-12] process exiting with exitcode 0
+[INFO/ForkPoolWorker-15] process shutting down
+[DEBUG/ForkPoolWorker-27] worker got sentinel -- exiting
+[DEBUG/ForkPoolWorker-2] running the remaining "atexit" finalizers
+[DEBUG/ForkPoolWorker-15] running all "atexit" finalizers with priority >= 0
+[DEBUG/ForkPoolWorker-6] worker exiting after 1958 tasks
+[DEBUG/ForkPoolWorker-42] worker got sentinel -- exiting
+[DEBUG/ForkPoolWorker-25] worker exiting after 2010 tasks
+[DEBUG/ForkPoolWorker-27] worker exiting after 2019 tasks
+[DEBUG/ForkPoolWorker-15] running the remaining "atexit" finalizers
+[INFO/ForkPoolWorker-6] process shutting down
+[INFO/ForkPoolWorker-2] process exiting with exitcode 0
+[DEBUG/ForkPoolWorker-42] worker exiting after 1997 tasks
+[DEBUG/ForkPoolWorker-11] worker got sentinel -- exiting
+[INFO/ForkPoolWorker-27] process shutting down
+[DEBUG/ForkPoolWorker-6] running all "atexit" finalizers with priority >= 0
+[INFO/ForkPoolWorker-15] process exiting with exitcode 0
+[INFO/ForkPoolWorker-42] process shutting down
+[INFO/ForkPoolWorker-25] process shutting down
+[DEBUG/ForkPoolWorker-27] running all "atexit" finalizers with priority >= 0
+[DEBUG/ForkPoolWorker-11] worker exiting after 2023 tasks
+[DEBUG/ForkPoolWorker-6] running the remaining "atexit" finalizers
+[DEBUG/ForkPoolWorker-42] running all "atexit" finalizers with priority >= 0
+[DEBUG/ForkPoolWorker-1] worker got sentinel -- exiting
+[DEBUG/ForkPoolWorker-48] worker got sentinel -- exiting
+[DEBUG/ForkPoolWorker-27] running the remaining "atexit" finalizers
+[INFO/ForkPoolWorker-11] process shutting down
+[INFO/ForkPoolWorker-6] process exiting with exitcode 0
+[DEBUG/ForkPoolWorker-42] running the remaining "atexit" finalizers
+[DEBUG/ForkPoolWorker-25] running all "atexit" finalizers with priority >= 0
+[DEBUG/ForkPoolWorker-18] worker got sentinel -- exiting
+[DEBUG/ForkPoolWorker-48] worker exiting after 2003 tasks
+[DEBUG/ForkPoolWorker-11] running all "atexit" finalizers with priority >= 0
+[INFO/ForkPoolWorker-27] process exiting with exitcode 0
+[DEBUG/ForkPoolWorker-1] worker exiting after 1997 tasks
+[INFO/ForkPoolWorker-42] process exiting with exitcode 0
+[INFO/ForkPoolWorker-48] process shutting down
+[DEBUG/ForkPoolWorker-17] worker got sentinel -- exiting
+[DEBUG/ForkPoolWorker-25] running the remaining "atexit" finalizers
+[DEBUG/ForkPoolWorker-11] running the remaining "atexit" finalizers
+[INFO/ForkPoolWorker-1] process shutting down
+[DEBUG/ForkPoolWorker-48] running all "atexit" finalizers with priority >= 0
+[DEBUG/ForkPoolWorker-18] worker exiting after 2037 tasks
+[DEBUG/ForkPoolWorker-10] worker got sentinel -- exiting
+[DEBUG/ForkPoolWorker-46] worker got sentinel -- exiting
+[DEBUG/ForkPoolWorker-48] running the remaining "atexit" finalizers
+[DEBUG/ForkPoolWorker-17] worker exiting after 2044 tasks
+[INFO/ForkPoolWorker-11] process exiting with exitcode 0
+[DEBUG/ForkPoolWorker-16] worker got sentinel -- exiting
+[DEBUG/ForkPoolWorker-10] worker exiting after 2028 tasks
+[DEBUG/ForkPoolWorker-46] worker exiting after 2009 tasks
+[DEBUG/ForkPoolWorker-51] worker got sentinel -- exiting
+[INFO/ForkPoolWorker-18] process shutting down
+[INFO/ForkPoolWorker-48] process exiting with exitcode 0
+[INFO/ForkPoolWorker-25] process exiting with exitcode 0
+[DEBUG/ForkPoolWorker-49] worker got sentinel -- exiting
+[INFO/ForkPoolWorker-17] process shutting down
+[INFO/ForkPoolWorker-10] process shutting down
+[INFO/ForkPoolWorker-46] process shutting down
+[DEBUG/ForkPoolWorker-51] worker exiting after 2021 tasks
+[DEBUG/ForkPoolWorker-29] worker got sentinel -- exiting
+[DEBUG/ForkPoolWorker-36] worker got sentinel -- exiting
+[DEBUG/ForkPoolWorker-29] worker exiting after 2013 tasks
+[DEBUG/ForkPoolWorker-1] running all "atexit" finalizers with priority >= 0
+[INFO/ForkPoolWorker-29] process shutting down
+[DEBUG/ForkPoolWorker-53] worker got sentinel -- exiting
+[DEBUG/ForkPoolWorker-36] worker exiting after 2006 tasks
+[DEBUG/ForkPoolWorker-29] running all "atexit" finalizers with priority >= 0
+[DEBUG/ForkPoolWorker-16] worker exiting after 1992 tasks
+[INFO/ForkPoolWorker-36] process shutting down
+[DEBUG/ForkPoolWorker-29] running the remaining "atexit" finalizers
+[DEBUG/ForkPoolWorker-1] running the remaining "atexit" finalizers
+[DEBUG/ForkPoolWorker-46] running all "atexit" finalizers with priority >= 0
+[DEBUG/ForkPoolWorker-36] running all "atexit" finalizers with priority >= 0
+[DEBUG/ForkPoolWorker-53] worker exiting after 2006 tasks
+[INFO/ForkPoolWorker-29] process exiting with exitcode 0
+[DEBUG/ForkPoolWorker-18] running all "atexit" finalizers with priority >= 0
+[DEBUG/ForkPoolWorker-46] running the remaining "atexit" finalizers
+[DEBUG/ForkPoolWorker-36] running the remaining "atexit" finalizers
+[INFO/ForkPoolWorker-16] process shutting down
+[DEBUG/ForkPoolWorker-10] running all "atexit" finalizers with priority >= 0
+[INFO/ForkPoolWorker-1] process exiting with exitcode 0
+[INFO/ForkPoolWorker-46] process exiting with exitcode 0
+[DEBUG/ForkPoolWorker-17] running all "atexit" finalizers with priority >= 0
+[INFO/ForkPoolWorker-53] process shutting down
+[INFO/ForkPoolWorker-36] process exiting with exitcode 0
+[DEBUG/ForkPoolWorker-10] running the remaining "atexit" finalizers
+[DEBUG/ForkPoolWorker-18] running the remaining "atexit" finalizers
+[DEBUG/ForkPoolWorker-16] running all "atexit" finalizers with priority >= 0
+[INFO/ForkPoolWorker-10] process exiting with exitcode 0
+[DEBUG/ForkPoolWorker-53] running all "atexit" finalizers with priority >= 0
+[DEBUG/ForkPoolWorker-17] running the remaining "atexit" finalizers
+[DEBUG/ForkPoolWorker-16] running the remaining "atexit" finalizers
+[INFO/ForkPoolWorker-18] process exiting with exitcode 0
+[DEBUG/ForkPoolWorker-53] running the remaining "atexit" finalizers
+[INFO/ForkPoolWorker-17] process exiting with exitcode 0
+[INFO/ForkPoolWorker-16] process exiting with exitcode 0
+[INFO/ForkPoolWorker-53] process exiting with exitcode 0
+[DEBUG/ForkPoolWorker-49] worker exiting after 1995 tasks
+[INFO/ForkPoolWorker-51] process shutting down
+[DEBUG/ForkPoolWorker-51] running all "atexit" finalizers with priority >= 0
+[DEBUG/MainProcess] joining worker handler
+[DEBUG/ForkPoolWorker-51] running the remaining "atexit" finalizers
+[INFO/ForkPoolWorker-49] process shutting down
+[INFO/ForkPoolWorker-51] process exiting with exitcode 0
+[DEBUG/ForkPoolWorker-49] running all "atexit" finalizers with priority >= 0
+[DEBUG/MainProcess] terminating workers
+[DEBUG/ForkPoolWorker-49] running the remaining "atexit" finalizers
+[INFO/ForkPoolWorker-49] process exiting with exitcode 0
+[DEBUG/MainProcess] joining task handler
+[DEBUG/MainProcess] joining result handler
+[DEBUG/MainProcess] joining pool workers
+[DEBUG/MainProcess] cleaning up worker 86867
+[INFO/MainProcess] process shutting down
+[DEBUG/MainProcess] running all "atexit" finalizers with priority >= 0
+[DEBUG/MainProcess] running the remaining "atexit" finalizers

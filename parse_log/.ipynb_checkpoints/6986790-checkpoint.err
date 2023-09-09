@@ -1,0 +1,146 @@
+[DEBUG/MainProcess] created semlock with handle 47726208544768
+[DEBUG/MainProcess] created semlock with handle 47726208548864
+[DEBUG/MainProcess] created semlock with handle 47726208552960
+[DEBUG/MainProcess] created semlock with handle 47726208557056
+[DEBUG/MainProcess] created semlock with handle 47726208561152
+[DEBUG/MainProcess] created semlock with handle 47726210527232
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-1] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-2] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-3] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-4] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-5] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-6] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-7] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-8] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-9] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-10] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-11] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-12] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-13] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-14] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-15] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-16] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-17] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-18] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-19] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-20] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-21] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-22] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-23] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-24] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-25] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-26] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-27] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-28] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-29] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-30] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-31] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-32] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-33] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-34] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-35] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-36] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-37] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-38] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-39] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-40] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-41] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-42] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-43] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-44] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-45] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-46] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-47] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-48] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-49] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-50] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-51] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-52] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-53] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-54] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-55] child process calling self.run()
+[DEBUG/MainProcess] added worker
+[INFO/ForkPoolWorker-56] child process calling self.run()
+[DEBUG/MainProcess] terminating pool
+[Level 5/MainProcess] finalizer calling <bound method Pool._terminate_pool of <class 'multiprocessing.pool.Pool'>> with args (<_queue.SimpleQueue object at 0x2b68b7283680>, <multiprocessing.queues.SimpleQueue object at 0x2b68b606f790>, <multiprocessing.queues.SimpleQueue object at 0x2b68b7279ca0>, [<ForkProcess name='ForkPoolWorker-1' pid=85009 parent=84933 started daemon>, <ForkProcess name='ForkPoolWorker-2' pid=85010 parent=84933 started daemon>, <ForkProcess name='ForkPoolWorker-3' pid=85011 parent=84933 started daemon>, <ForkProcess name='ForkPoolWorker-4' pid=85012 parent=84933 started daemon>, <ForkProcess name='ForkPoolWorker-5' pid=85013 parent=84933 started daemon>, <ForkProcess name='ForkPoolWorker-6' pid=85014 parent=84933 started daemon>, <ForkProcess name='ForkPoolWorker-7' pid=85015 parent=84933 started daemon>, <ForkProcess name='ForkPoolWorker-8' pid=85016 parent=84933 started daemon>, <ForkProcess name='ForkPoolWorker-9' pid=85017 parent=84933 started daemon>, <ForkProcess name='ForkPoolWorker-10' pid=85018 parent=84933 started daemon>, <ForkProcess name='ForkPoolWorker-11' pid=85019 parent=84933 started daemon>, <ForkProcess name='ForkPoolWorker-12' pid=85020 parent=84933 started daemon>, <ForkProcess name='ForkPoolWorker-13' pid=85021 parent=84933 started daemon>, <ForkProcess name='ForkPoolWorker-14' pid=85022 parent=84933 started daemon>, <ForkProcess name='ForkPoolWorker-15' pid=85023 parent=84933 started daemon>, <ForkProcess name='ForkPoolWorker-16' pid=85024 parent=84933 started daemon>, <ForkProcess name='ForkPoolWorker-17' pid=85025 parent=84933 started daemon>, <ForkProcess name='ForkPoolWorker-18' pid=85026 parent=84933 started daemon>, <ForkProcess name='ForkPoolWorker-19' pid=85027 parent=84933 started daemon>, <ForkProcess name='ForkPoolWorker-20' pid=85028 parent=84933 started daemon>, <ForkProcess name='ForkPoolWorker-21' pid=85029 parent=84933 started daemon>, <ForkProcess name='ForkPoolWorker-22' pid=85030 parent=84933 started daemon>, <ForkProcess name='ForkPoolWorker-23' pid=85031 parent=84933 started daemon>, <ForkProcess name='ForkPoolWorker-24' pid=85032 parent=84933 started daemon>, <ForkProcess name='ForkPoolWorker-25' pid=85033 parent=84933 started daemon>, <ForkProcess name='ForkPoolWorker-26' pid=85034 parent=84933 started daemon>, <ForkProcess name='ForkPoolWorker-27' pid=85035 parent=84933 started daemon>, <ForkProcess name='ForkPoolWorker-28' pid=85036 parent=84933 started daemon>, <ForkProcess name='ForkPoolWorker-29' pid=85037 parent=84933 started daemon>, <ForkProcess name='ForkPoolWorker-30' pid=85038 parent=84933 started daemon>, <ForkProcess name='ForkPoolWorker-31' pid=85039 parent=84933 started daemon>, <ForkProcess name='ForkPoolWorker-32' pid=85040 parent=84933 started daemon>, <ForkProcess name='ForkPoolWorker-33' pid=85041 parent=84933 started daemon>, <ForkProcess name='ForkPoolWorker-34' pid=85042 parent=84933 started daemon>, <ForkProcess name='ForkPoolWorker-35' pid=85043 parent=84933 started daemon>, <ForkProcess name='ForkPoolWorker-36' pid=85044 parent=84933 started daemon>, <ForkProcess name='ForkPoolWorker-37' pid=85045 parent=84933 started daemon>, <ForkProcess name='ForkPoolWorker-38' pid=85046 parent=84933 started daemon>, <ForkProcess name='ForkPoolWorker-39' pid=85047 parent=84933 started daemon>, <ForkProcess name='ForkPoolWorker-40' pid=85048 parent=84933 started daemon>, <ForkProcess name='ForkPoolWorker-41' pid=85049 parent=84933 started daemon>, <ForkProcess name='ForkPoolWorker-42' pid=85050 parent=84933 started daemon>, <ForkProcess name='ForkPoolWorker-43' pid=85051 parent=84933 started daemon>, <ForkProcess name='ForkPoolWorker-44' pid=85052 parent=84933 started daemon>, <ForkProcess name='ForkPoolWorker-45' pid=85053 parent=84933 started daemon>, <ForkProcess name='ForkPoolWorker-46' pid=85054 parent=84933 started daemon>, <ForkProcess name='ForkPoolWorker-47' pid=85055 parent=84933 started daemon>, <ForkProcess name='ForkPoolWorker-48' pid=85056 parent=84933 started daemon>, <ForkProcess name='ForkPoolWorker-49' pid=85057 parent=84933 started daemon>, <ForkProcess name='ForkPoolWorker-50' pid=85058 parent=84933 started daemon>, <ForkProcess name='ForkPoolWorker-51' pid=85059 parent=84933 started daemon>, <ForkProcess name='ForkPoolWorker-52' pid=85060 parent=84933 started daemon>, <ForkProcess name='ForkPoolWorker-53' pid=85061 parent=84933 started daemon>, <ForkProcess name='ForkPoolWorker-54' pid=85062 parent=84933 started daemon>, <ForkProcess name='ForkPoolWorker-55' pid=85063 parent=84933 started daemon>, <ForkProcess name='ForkPoolWorker-56' pid=85064 parent=84933 started daemon>], <multiprocessing.queues.SimpleQueue object at 0x2b68b606fcd0>, <Thread(Thread-1, started daemon 47728295098112)>, <Thread(Thread-2, started daemon 47728292996864)>, <Thread(Thread-3, started daemon 47728190232320)>, {0: <multiprocessing.pool.IMapIterator object at 0x2b682d3059a0>}) and kwargs {}
+[DEBUG/MainProcess] finalizing pool
+[DEBUG/MainProcess] helping task handler/workers to finish
+[DEBUG/MainProcess] removing tasks from inqueue until task handler finished
+[DEBUG/MainProcess] task handler found thread._state != RUN
+[DEBUG/MainProcess] task handler sending sentinel to result handler
+[DEBUG/MainProcess] worker handler exiting
+[DEBUG/MainProcess] task handler sending sentinel to workers
+[DEBUG/MainProcess] task handler exiting
+[DEBUG/MainProcess] result handler found thread._state=TERMINATE
+[DEBUG/MainProcess] ensuring that outqueue is not full
+[DEBUG/MainProcess] joining worker handler
+[DEBUG/MainProcess] terminating workers
+[DEBUG/MainProcess] result handler exiting: len(cache)=1, thread._state=TERMINATE
+[DEBUG/MainProcess] joining task handler
+[DEBUG/MainProcess] joining result handler
+[DEBUG/MainProcess] joining pool workers
+[DEBUG/MainProcess] cleaning up worker 85009
+[DEBUG/MainProcess] cleaning up worker 85026
+[DEBUG/MainProcess] cleaning up worker 85036
+Traceback (most recent call last):
+  File "/work/twtomtwcc00/xray_data/parse_data.py", line 52, in <module>
+    ), total=sum(1 for _ser in range(1, 13) for _ in os.listdir(f"images_{str(_ser).zfill(3)}/images")), miniters=1, file=sys.stdout):
+NameError: name 'sys' is not defined
+[INFO/MainProcess] process shutting down
+[DEBUG/MainProcess] running all "atexit" finalizers with priority >= 0
+[DEBUG/MainProcess] running the remaining "atexit" finalizers
