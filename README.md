@@ -3,4 +3,4 @@
 ## Authors
 Tsai, Xin Han 蔡昕翰 \
 Yeh, Anthony An Chih 葉安之 \
-Lu, Chen Hsin 呂辰昕 
+Lu, Chen Hsin 呂宸昕 
